@@ -8,3 +8,4 @@ Updated on wrote comments
 Updated on renamed variables for clarity
 Updated on removed deprecated methods
 Updated on updated documentation to reflect changes
+Updated on consolidated similar functions
