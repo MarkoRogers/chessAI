@@ -13,3 +13,4 @@ Updated on added more descriptive comments
 Updated on removed unnecessary comments
 Updated on streamlined conditional logic
 Updated on fixed indentation issues
+Updated on renamed variables for clarity
