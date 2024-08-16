@@ -17,3 +17,4 @@ Updated on renamed variables for clarity
 Updated on streamlined conditional logic
 Updated on updated documentation to reflect changes
 Updated on cleaned up import statements
+Updated on aligned code with recent conventions
